@@ -1,6 +1,6 @@
 <?php
-$firstname="mori";
-$lastname="meru";
+$firstname="Aman";
+$lastname="makwana";
 echo $firstname;
 echo $lastname;
 ?>
